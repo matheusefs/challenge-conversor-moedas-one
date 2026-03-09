@@ -89,7 +89,7 @@ Resultado:
 
 # 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto foram aplicados conceitos importantes como:
+Durante o desenvolvimento deste projeto foram aplicados conceitos importantes:
 
 * Consumo de APIs em Java
 * Manipulação de JSON
