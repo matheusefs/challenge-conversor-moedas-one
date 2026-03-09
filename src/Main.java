@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner leitura = new Scanner(System.in);
-        String chaveApi = "d2726dee677b5f141b3aab60";
+        String chaveApi = "SUA_CHAVE_AQUI";
 
         int opcao = 0;
 
